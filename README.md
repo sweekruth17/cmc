@@ -2,7 +2,7 @@
  tracks cryptocurrency prices in real time, using Coin Market Cap API.CoinMarketCap is one of the best when it comes to cryptocurrency in the industry.They
  have accurate prices and data related to cryptocurrency. We have used HTML,CSS,bootstrap for the front end and PHP,SQL database for backend part.Our website has responsive design as well.
  
- # Tracks the folloing:
+ # Tracks the following:
  ● Cryptocurrency price
  ● Total Market cap
  ● Their past 1hr, 24hrs price.
